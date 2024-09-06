@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ibrah131
+- 👋 Hi, I’m Ibrahim aka @Ibrah131
 - 👀 I’m interested in Web Developpement
 - 🌱 I’m currently learning NodeJs
 - 💞️ I’m looking to collaborate on creating beautiful websites
